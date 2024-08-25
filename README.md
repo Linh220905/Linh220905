@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Linh (@Linh220905)
+# 👋 Hello, I'm Linh 
 
 ---
 
@@ -16,4 +16,4 @@ I'm currently studying at the **Da Nang University of Science and Technology**
 - [GitHub](https://github.com/Linh220905)  
 - [Email](linhd220901@gmail.com)
 
-
+---
